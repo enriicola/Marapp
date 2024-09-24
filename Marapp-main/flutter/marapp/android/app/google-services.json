@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745993603832",
+    "project_id": "marapp-97c84",
+    "storage_bucket": "marapp-97c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745993603832:android:19ea616cee7ce586e1490d",
+        "android_client_info": {
+          "package_name": "com.marapp.main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUtmGQhS7qbzGAeaTjgYGZtWrAPAoyqXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
