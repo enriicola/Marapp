@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCUtmGQhS7qbzGAeaTjgYGZtWrAPAoyqXI',
-    appId: '1:745993603832:android:19ea616cee7ce586e1490d',
-    messagingSenderId: '745993603832',
-    projectId: 'marapp-97c84',
-    storageBucket: 'marapp-97c84.appspot.com',
+    apiKey: 'AIzaSyB9iE4tAcGZ5VUgZP8Zro96mRkgj7K5_qk',
+    appId: '1:1073433829921:android:93b0af983f7b12eb593960',
+    messagingSenderId: '1073433829921',
+    projectId: 'marapp-9e867',
+    storageBucket: 'marapp-9e867.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBrwndlyqrVRNY9KwplR5UMjCf801xGKuY',
-    appId: '1:745993603832:ios:50610289be3a35ffe1490d',
-    messagingSenderId: '745993603832',
-    projectId: 'marapp-97c84',
-    storageBucket: 'marapp-97c84.appspot.com',
+    apiKey: 'AIzaSyAgNY06CbGFV6PcRZITwtNu3XvPf-gfIrs',
+    appId: '1:1073433829921:ios:b0f3d4377fb1b776593960',
+    messagingSenderId: '1073433829921',
+    projectId: 'marapp-9e867',
+    storageBucket: 'marapp-9e867.appspot.com',
     iosBundleId: 'com.example.marapp',
   );
 }
